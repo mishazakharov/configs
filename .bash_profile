@@ -6,3 +6,4 @@ export PATH
 
 export PS1='\u@\h:\[\e[33m\]\W\[\e[0m\]\$ '
 
+export PATH=/usr/local/mysql/bin:$PATH
